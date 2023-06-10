@@ -1,0 +1,31 @@
+.body {
+  min-height: 89vh;
+  padding: 20px;
+  background-color: #f7f7f9;
+}
+
+.option {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  cursor: pointer;
+  border: 1px solid gray;
+}
+
+.option-a {
+  text-decoration: none;
+}
+
+.card {
+  padding: 1rem;
+  width: 400px;
+  border: none !important;
+}
+
+.footer {
+  max-width: 400px;
+  text-align: center;
+  padding: 2rem;
+  background-color: #fff;
+}
